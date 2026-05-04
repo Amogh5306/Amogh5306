@@ -92,12 +92,15 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amogh5306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amogh5306&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amogh5306&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh5306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+<img src="https://komarev.com/ghpvc/?username=Amogh5306&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
