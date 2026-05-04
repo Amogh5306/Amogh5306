@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Amogh+Dey+%F0%9F%91%8B;I+build+stuff+and+then+google;why+it+broke+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Amogh+Dey+%F0%9F%91%8B;Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,9 +20,8 @@
 name: Amogh Dey
 role: Engineering Student @ Amrita Vishwa Vidyapeetham
 location: Coimbatore, India
-currently_building: Full-stack apps that actually work (most of the time)
+focus: Building scalable data pipelines and premium UIs
 interests: [Web Dev, Data Engineering, UI/UX, Automation]
-fun_fact: "My code works. I just don't know why."
 ```
 
 ---
