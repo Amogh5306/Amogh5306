@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+Amogh+Dey+%F0%9F%91%8B;Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey,+I'm+Amogh+Dey;Full-Stack+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amoghdey-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amogh-dey)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amogh5306)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amoghdey-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amogh-dey)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amogh5306)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```yaml
 name: Amogh Dey
@@ -26,46 +26,39 @@ interests: [Web Dev, Data Engineering, UI/UX, Automation]
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
-<div align="center">
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Languages**
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-#### [⌨️ Keyboard Price Tracker](https://github.com/Amogh5306/keyboard-price-tracker)
+#### [Keyboard Price Tracker](https://github.com/Amogh5306/keyboard-price-tracker)
 Full-stack data pipeline — scrapes e-commerce prices, serves via Flask API, visualizes with Chart.js
 
 `Python` `Flask` `BeautifulSoup` `Chart.js` `Vercel` `Render`
@@ -75,7 +68,7 @@ Full-stack data pipeline — scrapes e-commerce prices, serves via Flask API, vi
 </td>
 <td width="50%">
 
-#### [🎨 Personal Portfolio](https://github.com/Amogh5306/portfolio)
+#### [Personal Portfolio](https://github.com/Amogh5306/portfolio)
 Premium animated portfolio with dark/light mode, custom cursor physics, and glassmorphism
 
 `React 19` `Tailwind v4` `Framer Motion` `Vite`
@@ -89,7 +82,7 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amogh5306&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
@@ -99,7 +92,7 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Amogh5306&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Amogh5306&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -107,8 +100,6 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 <div align="center">
 
-#### 💬 *"The best error message is the one that never shows up."*
-
-<img src="https://komarev.com/ghpvc/?username=Amogh5306&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+#### "The best error message is the one that never shows up."
 
 </div>
