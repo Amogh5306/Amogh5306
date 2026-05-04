@@ -16,13 +16,9 @@
 
 ### About Me
 
-```yaml
-name: Amogh Dey
-role: Engineering Student @ Amrita Vishwa Vidyapeetham
-location: Coimbatore, India
-focus: Building scalable data pipelines and premium UIs
-interests: [Web Dev, Data Engineering, UI/UX, Automation]
-```
+<div align="center">
+  <img src="terminal.svg" alt="Animated Terminal About Me" />
+</div>
 
 ---
 
