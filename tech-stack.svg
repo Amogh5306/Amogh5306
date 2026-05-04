@@ -1,0 +1,70 @@
+<svg width="600" height="550" viewBox="0 0 600 550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
+      .prompt { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #00D9FF; font-weight: 600; }
+      .cmd { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #fafafa; }
+      .file { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #aaaaaa; }
+      .output { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #fafafa; opacity: 0.85; }
+      .key { fill: #00D9FF; }
+      .string { fill: #A5D6FF; }
+      .bg { fill: #0D1117; }
+      .border { fill: none; stroke: #333333; stroke-width: 1; }
+      .cursor { fill: #00D9FF; font-family: 'JetBrains Mono', monospace; font-size: 14px; animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .type-mask { fill: #0D1117; animation: slide 1s steps(30, end) forwards; }
+      .type-mask-1 { animation-delay: 0.5s; }
+      @keyframes slide { to { transform: translateX(550px); } }
+      .hide { opacity: 0; animation: fadein 0.1s forwards; }
+      .delay-1 { animation-delay: 0s; }
+      .delay-2 { animation-delay: 1.5s; }
+      .delay-3 { animation-delay: 2.0s; }
+      @keyframes fadein { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Main -->
+  <rect x="0" y="0" width="600" height="550" class="bg" rx="6" />
+  <rect x="0" y="0" width="600" height="550" class="border" rx="6" />
+  
+  <g transform="translate(15, 15)">
+    <circle cx="0" cy="0" r="6" fill="#ff5f57" />
+    <circle cx="20" cy="0" r="6" fill="#febc2e" />
+    <circle cx="40" cy="0" r="6" fill="#28c840" />
+  </g>
+
+  <!-- Prompt -->
+  <g class="hide delay-1">
+    <text y="60" x="20">
+      <tspan class="prompt">~$</tspan>
+      <tspan class="cmd"> cat</tspan>
+      <tspan class="file"> tech-stack.json</tspan>
+    </text>
+    <rect x="40" y="45" width="550" height="20" class="type-mask type-mask-1" />
+  </g>
+  
+  <!-- Output -->
+  <g class="hide delay-2">
+    <text y="95" x="20" class="output">{</text>
+    <text y="120" x="20" class="output">  <tspan class="key">"type"</tspan>: <tspan class="string">"hard skills"</tspan>,</text>
+    <text y="145" x="20" class="output">  <tspan class="key">"categories"</tspan>: [</text>
+    <text y="170" x="20" class="output">    {</text>
+    <text y="195" x="20" class="output">      <tspan class="key">"name"</tspan>: <tspan class="string">"Languages"</tspan>,</text>
+    <text y="220" x="20" class="output">      <tspan class="key">"items"</tspan>: [<tspan class="string">"Python"</tspan>, <tspan class="string">"JavaScript"</tspan>, <tspan class="string">"Java"</tspan>, <tspan class="string">"HTML"</tspan>, <tspan class="string">"CSS"</tspan>]</text>
+    <text y="245" x="20" class="output">    },</text>
+    <text y="270" x="20" class="output">    {</text>
+    <text y="295" x="20" class="output">      <tspan class="key">"name"</tspan>: <tspan class="string">"Frameworks &amp; Libraries"</tspan>,</text>
+    <text y="320" x="20" class="output">      <tspan class="key">"items"</tspan>: [<tspan class="string">"React"</tspan>, <tspan class="string">"Flask"</tspan>, <tspan class="string">"Tailwind CSS"</tspan>, <tspan class="string">"Framer Motion"</tspan>]</text>
+    <text y="345" x="20" class="output">    },</text>
+    <text y="370" x="20" class="output">    {</text>
+    <text y="395" x="20" class="output">      <tspan class="key">"name"</tspan>: <tspan class="string">"Tools &amp; Platforms"</tspan>,</text>
+    <text y="420" x="20" class="output">      <tspan class="key">"items"</tspan>: [<tspan class="string">"Git"</tspan>, <tspan class="string">"Vite"</tspan>, <tspan class="string">"Vercel"</tspan>, <tspan class="string">"Render"</tspan>, <tspan class="string">"VS Code"</tspan>]</text>
+    <text y="445" x="20" class="output">    }</text>
+    <text y="470" x="20" class="output">  ]</text>
+    <text y="495" x="20" class="output">}</text>
+  </g>
+
+  <g class="hide delay-3">
+     <text y="530" x="20" class="prompt">~$ <tspan class="cursor">█</tspan></text>
+  </g>
+</svg>

@@ -24,25 +24,9 @@
 
 ### Tech Stack
 
-```json
-{
-  "type": "hard skills",
-  "categories": [
-    {
-      "name": "Languages",
-      "items": ["Python", "JavaScript", "Java", "HTML", "CSS"]
-    },
-    {
-      "name": "Frameworks & Libraries",
-      "items": ["React", "Flask", "Tailwind CSS", "Framer Motion", "Chart.js"]
-    },
-    {
-      "name": "Tools & Platforms",
-      "items": ["Git", "Vite", "Vercel", "Render", "VS Code"]
-    }
-  ]
-}
-```
+<div align="center">
+  <img src="tech-stack.svg" alt="Animated Terminal Tech Stack" />
+</div>
 
 **Main skills**
 
