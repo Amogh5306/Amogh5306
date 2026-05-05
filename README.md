@@ -91,12 +91,12 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 <div align="center">
   <table>
     <tr>
-      <td><img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" /></td>
-      <td><img src="profile-summary-card-output/tokyonight/1-repo-languages.svg" alt="Top Languages by Repo" /></td>
+      <td><img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" /></td>
+      <td><img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
     </tr>
     <tr>
-      <td><img src="profile-summary-card-output/tokyonight/2-commit-languages.svg" alt="Top Languages by Commit" /></td>
-      <td><img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" /></td>
+      <td><img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
+      <td><img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" /></td>
     </tr>
   </table>
 </div>
