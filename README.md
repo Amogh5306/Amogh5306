@@ -8,7 +8,6 @@
 <!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amoghdey-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amogh-dey)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amogh5306)
 
 </div>
 
@@ -30,11 +29,17 @@
 
 **Main skills**
 
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,java,html,css,react,flask,tailwind,git,vite,vercel,vscode&theme=dark" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
+</div>
 
 ---
 
@@ -78,9 +83,22 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amogh5306&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Amogh5306&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
+#### Summary Cards
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" /></td>
+      <td><img src="profile-summary-card-output/tokyonight/1-repo-languages.svg" alt="Top Languages by Repo" /></td>
+    </tr>
+    <tr>
+      <td><img src="profile-summary-card-output/tokyonight/2-commit-languages.svg" alt="Top Languages by Commit" /></td>
+      <td><img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
