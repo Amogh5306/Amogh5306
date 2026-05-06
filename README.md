@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey,+I'm+Amogh+Dey;UI/UX Enthusiast;Frontend Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey,+I'm+Amogh+Dey;UI/UX+Enthusiast;Frontend+Designer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -90,7 +90,7 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 #### Summary Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh5306&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amogh5306&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
