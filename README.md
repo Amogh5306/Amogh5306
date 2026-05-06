@@ -103,6 +103,14 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 ---
 
+### 🎯 Current Goals
+
+- [ ] Master Data Engineering pipelines with Apache Airflow
+- [ ] Implement CI/CD for all personal projects
+- [ ] Contribute to major Open Source libraries
+
+---
+
 <div align="center">
 
 #### "The best error message is the one that never shows up."
