@@ -109,3 +109,5 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 *Always building, always learning.*
 
 </div>
+
+<!-- Last profile update: 2026-05-06 -->
