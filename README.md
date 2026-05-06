@@ -63,7 +63,7 @@ Full-stack data pipeline — scrapes e-commerce prices, serves via Flask API, vi
 #### [Personal Portfolio](https://github.com/Amogh5306/portfolio)
 Premium animated portfolio with dark/light mode, custom cursor physics, and glassmorphism
 
-`React 19` `Tailwind v4` `Framer Motion` `Vite`
+`React 19` `Tailwind v4` `Framer Motion` `Vite` `Responsive Design`
 
 [Live Site →](https://amoghdey-portfolio.vercel.app)
 
