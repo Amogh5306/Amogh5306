@@ -87,16 +87,18 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
   <img src="https://komarev.com/ghpvc/?username=Amogh5306&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 </div>
 
-#### Summary Cards
+#### Summary Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amogh5306&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
       <td><img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" /></td>
-      <td><img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
-    </tr>
-    <tr>
-      <td><img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
       <td><img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" /></td>
     </tr>
   </table>
