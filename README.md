@@ -112,14 +112,6 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 ---
 
-### 📫 Let's Connect
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Discord**: `amoghdey#0000`
-- **Twitter**: [@AmoghDey](https://twitter.com/AmoghDey)
-
----
-
 <div align="center">
 
 #### "The best error message is the one that never shows up."
