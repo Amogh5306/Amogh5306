@@ -30,6 +30,7 @@
 **Main skills**
 
 <div align="center">
+  <p>Languages, Frameworks, and Tools I use daily:</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,java,html,css,react,flask,tailwind,git,vite,vercel,vscode&theme=dark" />
   </a>
