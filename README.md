@@ -53,7 +53,7 @@
 #### [Keyboard Price Tracker](https://github.com/Amogh5306/keyboard-price-tracker)
 Full-stack data pipeline — scrapes e-commerce prices, serves via Flask API, visualizes with Chart.js
 
-`Python` `Flask` `BeautifulSoup` `Chart.js` `Vercel` `Render`
+`Python` `Flask` `BeautifulSoup` `Chart.js` `Data Visualization` `Automation`
 
 [Live Demo →](https://amogh-keyboard-tracker.vercel.app)
 
