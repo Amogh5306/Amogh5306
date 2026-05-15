@@ -6,7 +6,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amoghdey-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amoghdey.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amogh-dey)
 
 </div>
@@ -66,7 +66,7 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 `React 19` `Tailwind v4` `Framer Motion` `Vite` `Responsive Design`
 
-[Live Site →](https://amoghdey-portfolio.vercel.app)
+[Live Site →](https://amoghdey.is-a.dev)
 
 </td>
 </tr>
@@ -78,12 +78,6 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amogh5306&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amogh5306&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 </div>
 
@@ -92,12 +86,11 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 <div align="center">
   <table>
     <tr>
-      <td><img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" /></td>
-      <td><img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
+      <td colspan="2"><img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" /></td>
     </tr>
     <tr>
+      <td><img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages by Repo" /></td>
       <td><img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages by Commit" /></td>
-      <td><img src="profile-summary-card-output/radical/3-stats.svg" alt="Stats" /></td>
     </tr>
   </table>
 </div>
@@ -119,4 +112,4 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 </div>
 
-<!-- Last profile update: 2026-05-06 -->
+<!-- Last profile update: 2026-05-15 -->
