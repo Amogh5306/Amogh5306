@@ -105,11 +105,5 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 ---
 
-<div align="center">
-
-#### "The best error message is the one that never shows up."
-*Always building, always learning.*
-
-</div>
 
 <!-- Last profile update: 2026-05-15 -->
