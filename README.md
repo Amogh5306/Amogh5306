@@ -97,7 +97,7 @@ Premium animated portfolio with dark/light mode, custom cursor physics, and glas
 
 ---
 
-### 🎯 Current Goals
+### Current Goals
 
 - [ ] Master Data Engineering pipelines with Apache Airflow
 - [ ] Implement CI/CD for all personal projects
